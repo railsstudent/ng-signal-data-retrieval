@@ -238,7 +238,7 @@ License: "MIT"
 
 
 --------------------------------------------------------------------------------
-Package: @angular/router
+Package: ngxtension
 License: "MIT"
 
 
